@@ -1,0 +1,48 @@
+<!--
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 24/03/2025
+Ejercicio: XML Básico 2
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ciclo>
+    <nombre>DAW</nombre>
+    <asignatura>Lenguaje de Marcas</asignatura>
+    <horas-semanales>4</horas-semanales>
+    <caracter>Obligatorio</caracter>
+    <fecha-inicio>15-09-2023</fecha-inicio>
+    <fecha-fin>22-08-2024</fecha-fin>
+
+    <alumnos>
+        <alumno>
+            <nombre-alumno>Ana Fernández Gutiérrez</nombre-alumno>
+            <dni>51623487V</dni>
+            <telefono>666544566</telefono>
+            <email>anafernandez@gmail.com</email>
+            <direccion>
+                <calle>C/ Amatista, 14</calle>
+                <codigo-postal>28905</codigo-postal>
+                <ciudad>Getafe</ciudad>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <faltas-asistencia>No hay información.</faltas-asistencia>
+            <nota>No hay información.</nota>
+        </alumno>
+        <alumno>
+            <nombre-alumno>Carlos López Sánchez</nombre-alumno>
+            <dni>52369874B</dni>
+            <telefono>666455477</telefono>
+            <email>carloslopez@gmail.com</email>
+            <direccion>
+                <calle>C/ Ópalo, 15</calle>
+                <codigo-postal>28905</codigo-postal>
+                <ciudad>Getafe</ciudad>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <faltas-asistencia>0 Faltas de Asistencia</faltas-asistencia>
+            <nota>Apto</nota>
+        </alumno>
+    </alumnos>
+</ciclo>
