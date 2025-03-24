@@ -5,7 +5,6 @@ Fecha: 24/03/2025
 Ejercicio: XML Básico 2
 -->
 
-<?xml version="1.0" encoding="UTF-8"?>
 <receta>
     <nombre-receta>Sopa de Cebolla</nombre-receta>
     <personas>4</personas>

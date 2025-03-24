@@ -5,7 +5,6 @@ Fecha: 24/03/2025
 Ejercicio: XML Básico 2
 -->
 <!--En este ejercicio tenemos que crear una lista de marcadores de páginas web que no contengan atributos.-->
-<?xml version="1.0" encoding="UTF-8"?>
 <marcadores> <!--Esto va a almacenar todos los marcadores de páginas web que vamos a mostrar.-->
     <pagina> <!--de cada página vamos a almacenar los valores: nombre, informacion y url.-->
         <nombre>W3Schools</nombre>
