@@ -12,37 +12,37 @@ Ejercicio: XML Básico 2
             <ingrediente>
                 <nombre>Cebolla</nombre>
                 <cantidad>1 kg</cantidad>
-            <ingrediente>
+            </ingrediente>
             <ingrediente>
                 <nombre>Caldo de Carne</nombre>
                 <cantidad>2 Litros</cantidad>
-            <ingrediente>
+            </ingrediente>
             <ingrediente>
                 <nombre>Mantequilla</nombre>
                 <cantidad>100 gramos</cantidad>
-            <ingrediente>
+            </ingrediente>
             <ingrediente>
                 <nombre>Harina</nombre>
                 <cantidad>1 cucharada</cantidad>
-            <ingrediente>
+            </ingrediente>
             <ingrediente>
                 <nombre>Queso Emmental</nombre>
                 <cantidad>100 gramos</cantidad>
-            <ingrediente>
+            </ingrediente>
             <ingrediente>
                 <nombre>Pan tostado</nombre>
                 <cantidad>Unas cuantas</cantidad>
-            <ingrediente>
+            </ingrediente>
             <ingrediente>
                 <nombre>Tomillo</nombre>
-            <ingrediente>
+            </ingrediente>
             <ingrediente>
                 <nombre>Laurel</nombre>
                 <cantidad>1 hoja</cantidad>
-            <ingrediente>
+            </ingrediente>
             <ingrediente>
                 <nombre>Pimienta</nombre>
-            <ingrediente>
+            </ingrediente>
     </ingredientes>
     <proceso>
         <paso>Pelar y partir las cebollas en rodajas finas.</paso>
