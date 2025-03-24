@@ -1,2 +1,25 @@
-sdasdasd
-dasd
+<!--
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 24/03/2025
+Ejercicio: XML Básico 2
+-->
+<!--En este ejercicio tenemos que crear una lista de marcadores de páginas web que no contengan atributos.-->
+<?xml version="1.0" encoding="UTF-8"?>
+<marcadores> <!--Esto va a almacenar todos los marcadores de páginas web que vamos a mostrar.-->
+    <pagina>
+        <nombre>W3Schools</nombre>
+        <informacion>Tutoriales de informática.</informacion>
+        <url>https://www.w3schools.com/</url>
+    </pagina>
+    <pagina>
+        <nombre>Wikipedia</nombre>
+        <informacion>La enciclopedia libre.</informacion>
+        <url>http://www.wikipedia.org/</url>
+    </pagina>
+    <pagina>
+        <nombre>W3C</nombre>
+        <informacion>World Wide Web Consortium.</informacion>
+        <url>http://www.w3.org/</url>
+    </pagina>
+</marcadores>
