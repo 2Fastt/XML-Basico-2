@@ -1,0 +1,56 @@
+<!--
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 24/03/2025
+Ejercicio: XML Básico 2
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<receta>
+    <nombre-receta>Sopa de Cebolla</nombre-receta>
+    <personas>4</personas>
+        <ingredientes>
+            <ingrediente>
+                <nombre>Cebolla</nombre>
+                <cantidad>1 kg</cantidad>
+            <ingrediente>
+            <ingrediente>
+                <nombre>Caldo de Carne</nombre>
+                <cantidad>2 Litros</cantidad>
+            <ingrediente>
+            <ingrediente>
+                <nombre>Mantequilla</nombre>
+                <cantidad>100 gramos</cantidad>
+            <ingrediente>
+            <ingrediente>
+                <nombre>Harina</nombre>
+                <cantidad>1 cucharada</cantidad>
+            <ingrediente>
+            <ingrediente>
+                <nombre>Queso Emmental</nombre>
+                <cantidad>100 gramos</cantidad>
+            <ingrediente>
+            <ingrediente>
+                <nombre>Pan tostado</nombre>
+                <cantidad>Unas cuantas</cantidad>
+            <ingrediente>
+            <ingrediente>
+                <nombre>Tomillo</nombre>
+            <ingrediente>
+            <ingrediente>
+                <nombre>Laurel</nombre>
+                <cantidad>1 hoja</cantidad>
+            <ingrediente>
+            <ingrediente>
+                <nombre>Pimienta</nombre>
+            <ingrediente>
+    </ingredientes>
+    <proceso>
+        <paso>Pelar y partir las cebollas en rodajas finas.</paso>
+        <paso>Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.</paso>
+        <paso>Añadir la harina sin dejar de remover.</paso>
+        <paso>Ponerlo en una cazuela con el caldo, el tomillo y el laurel.</paso>
+        <paso>Dejar cocer a fuego lento durante unos 15 minutos.</paso>
+        <paso>Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.</paso>
+    </proceso>
+</receta>
