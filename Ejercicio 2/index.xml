@@ -6,13 +6,13 @@ Ejercicio: XML Básico 2
 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
-<equipos>
-    <equipo>
+<equipos> <!--Vamos a almacenar los dos equipos con sus respectivos valores.-->
+    <equipo> <!-- cada equipo va a contener nombre, etc y jugadores-->
         <nombre>Getafe CF</nombre>
         <ciudad>Madrid</ciudad>
         <entrenador></entrenador>
-        <jugadores>
-            <jugador posicion="central">
+        <jugadores> 
+            <jugador posicion="central"> <!-- cada jugador tiene un atributo que va a indicar su posición de juego -->
                 <nombre>Djené</nombre>
                 <nacionalidad>Togo</nacionalidad>
             </jugador>
