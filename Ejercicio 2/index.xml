@@ -1,0 +1,36 @@
+<!--
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 24/03/2025
+Ejercicio: XML Básico 2
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <equipo>
+        <nombre>Getafe CF</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador>José Bordalas</entrenador>
+        <jugadores>
+            <jugador posicion="central">
+                <nombre>Djené</nombre>
+                <nacionalidad>Togo</nacionalidad>
+            </jugador>
+            <jugador posicion="Delantero">
+                <nombre>Borja Mayoral</nombre>
+                <nacionalidad>Togo</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador>Carlo Ancelotti</entrenador>
+        <jugadores>
+            <jugador posicion="central">
+                <nombre>Djené</nombre>
+                <nacionalidad>Togo</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>
