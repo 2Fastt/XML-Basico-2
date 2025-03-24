@@ -10,7 +10,7 @@ Ejercicio: XML Básico 2
     <equipo>
         <nombre>Getafe CF</nombre>
         <ciudad>Madrid</ciudad>
-        <entrenador>José Bordalas</entrenador>
+        <entrenador></entrenador>
         <jugadores>
             <jugador posicion="central">
                 <nombre>Djené</nombre>
@@ -18,18 +18,22 @@ Ejercicio: XML Básico 2
             </jugador>
             <jugador posicion="Delantero">
                 <nombre>Borja Mayoral</nombre>
-                <nacionalidad>Togo</nacionalidad>
+                <nacionalidad>España</nacionalidad>
             </jugador>
         </jugadores>
     </equipo>
     <equipo>
         <nombre>Real Madrid</nombre>
         <ciudad>Madrid</ciudad>
-        <entrenador>Carlo Ancelotti</entrenador>
+        <entrenador></entrenador>
         <jugadores>
-            <jugador posicion="central">
-                <nombre>Djené</nombre>
-                <nacionalidad>Togo</nacionalidad>
+            <jugador posicion="Lateral">
+                <nombre>Daniel Carvajal</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+            <jugador posicion="Delantero">
+                <nombre>Kylian Mbappe</nombre>
+                <nacionalidad>Francia</nacionalidad>
             </jugador>
         </jugadores>
     </equipo>
